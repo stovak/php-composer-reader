@@ -1,5 +1,5 @@
 {
-    "name": "nadar/php-composer-reader",
+    "name": "stovak/php-composer-reader",
     "description": "Read and manipulate composer.json",
     "type": "library",
     "require-dev": {
